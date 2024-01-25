@@ -49,7 +49,8 @@
     border-color: rgb(44, 44, 44);
 }
 
-#galeria .card{
+#galeria .card,
+#feedback .card{
     border:none;
     background-color: #fff;
     text-align: center;
@@ -60,7 +61,8 @@
     padding-bottom: 50px;
 }
 
-#galeria h1
+#galeria h1,
+#feedback h1
 {
     font-size: 45px;
 }
