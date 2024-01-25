@@ -102,10 +102,7 @@
 }
 
 #curso button:hover {
-    color: #fff;
     box-shadow: 0 0px 15px 3px rgba(255, 179, 171, 0.575);
-    
-
 }
 
 #curso a:hover {
