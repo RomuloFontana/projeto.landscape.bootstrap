@@ -89,20 +89,23 @@
 #curso a{
     font-family: "Dancing Script", cursive;
     font-style: italic;
-    color: rgb(255, 179, 171);
     font-size: 30px;
     padding: 2px;
-    transition: background 0.8s ease, box-shadow 0.8s ease, color 0.8s ease;
+    transition: background 0.5s ease, box-shadow 0.5s ease, color 0.5s ease;
     border-radius: 15px;
     display: inline;
     cursor: pointer;
+    color: #fff;
+    box-shadow: 0 0px 15px 5px rgb(255, 179, 171);
+    background-color:rgb(255, 179, 171) ;
 
 }
 
 #curso button:hover {
     color: #fff;
-    box-shadow: 0 0px 15px 5px rgb(255, 179, 171);
-    background-color:rgb(255, 179, 171) ;
+    box-shadow: 0 0px 15px 3px rgba(255, 179, 171, 0.575);
+    
+
 }
 
 #curso a:hover {
