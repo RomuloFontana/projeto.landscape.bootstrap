@@ -1,2 +1,1 @@
-Projeto criado baseado em conhecimentos em HTML, CSS e Bootstrap.
-Site feito em estilo catálogo.
+Project created based on knowledge in HTML, CSS and Bootstrap. Website made in catalog style.
